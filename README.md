@@ -21,18 +21,20 @@
 </table>
 
 <table>
-    <td align="center" width="50%">
-        <a href="./assets/videos/led_matrix_animation.mp4">
-            <img src="./assets/images/led_matrix_animation_preview.jpg" alt="Captain America chasing Spiderman" width="100%">
-        </a>
-        <br>
-        <a href="./assets/videos/led_matrix_animation.mp4">Watch video</a>
-    </td>
-    <td align="center" width="50%">
-        <a href="./assets/videos/led_matrix_ping_pong.mp4">
-            <img src="./assets/images/led_matrix_ping_pong_preview.jpg" alt="Ping Pong" width="100%">
-        </a>
-        <br>
-        <a href="./assets/videos/led_matrix_ping_pong.mp4">Watch video</a>
-    </td>
+    <tr>
+        <td align="center" width="50%">
+            <a href="./assets/videos/led_matrix_animation.mp4">
+                <img src="./assets/images/led_matrix_animation_preview.jpg" alt="Captain America chasing Spiderman" width="100%">
+            </a>
+            <br>
+            <a href="./assets/videos/led_matrix_animation.mp4">Watch video</a>
+        </td>
+        <td align="center" width="50%">
+            <a href="./assets/videos/led_matrix_ping_pong.mp4">
+                <img src="./assets/images/led_matrix_ping_pong_preview.jpg" alt="Ping Pong" width="100%">
+            </a>
+            <br>
+            <a href="./assets/videos/led_matrix_ping_pong.mp4">Watch video</a>
+        </td>
+    </tr>
 </table>
