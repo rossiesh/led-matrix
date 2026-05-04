@@ -42,6 +42,10 @@ This project contains a handmade 10x10 RGB LED pixel matrix that displays pixel 
 ## Demo
 <table>
     <tr>
+        <th>Animation mode</th>
+        <th>Ping Pong mode</th>
+    </tr>
+    <tr>
         <td align="center" width="50%">
             <a href="./assets/videos/led_matrix_animation.mp4">
                 <img src="./assets/images/led_matrix_animation_preview.jpg" alt="Captain America chasing Spiderman" width="100%">
